@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Copia de DEPENDENCIAS MIMG - SCI</name>
+    <description/>
+    <Style id="icon-1502-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-FFEA00-labelson">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1547-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1547-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1547-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1547-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1547-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1565-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1565-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1565-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1565-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1565-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1603-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1603-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1624-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1624-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1624-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1624-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1624-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1649-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1649-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1649-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1649-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1649-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1686-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1686-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1686-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1686-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1686-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1686-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1686-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1686-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1686-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1686-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1720-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1720-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1720-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1720-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1720-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1726-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1726-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1726-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1726-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1726-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1834-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1834-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1834-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1834-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1834-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>MERCADOS</name>
+      <Placemark>
+        <name>MERCADO NORTE</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8834469,-2.1855015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO COMERCIAL PECA 1 Y 2</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9356807,-2.0987585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLAZA CHIMBORAZO</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8857707,-2.2030867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO BASTIÓN POPULAR</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9264587,-2.100079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAMAL MUNICIPAL</name>
+        <styleUrl>#icon-1565-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8864129,-2.2255649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARADERO TURÍSTICO KM 25.5</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.086026,-2.2194244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARADERO TURÍSTICO KM 24</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.0805914,-2.2163394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARADERO TURÍSTICO KM 17 </name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.0278121,-2.1886604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO CERECITA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2716936,-2.3343486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO CHONGON</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.0810441,-2.2303021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO DE MARISCOS POSORJA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2444094,-2.7142536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAMAL DE POSORJA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2985458,-2.7096591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO GUASMO NORTE</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8785312,-2.2528338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO DE VIVERES POSORJA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.246975,-2.7115711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO DE ARTICULOS VARIOS POSORJA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2447064,-2.7123076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO JOKEY CLUB</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8972386,-2.2108608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO SAUCES IV</name>
+        <description><![CDATA[SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1686-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8849641,-2.1241361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO DE MARISCOS PORTETE</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.93563,-2.1968843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO OESTE</name>
+        <styleUrl>#icon-1603-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8989148,-2.1922184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO GRAN COLOMBIA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9050201,-2.2075509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO TENGUEL</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.7900054,-2.9946738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLAZOLETA GÓMEZ RENDÓN</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9025224,-2.2009836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO PASCUALES</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.926194,-2.0708259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO ARTICULOS VARIOS 4 MANZANAS</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8898899,-2.19896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO ARTESANAL LOJA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8801795,-2.1847215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO DE FLORES</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8888552,-2.1839717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO MAPASINGUE OESTE</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9367569,-2.1565709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO SAN FRANCISCO</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9258604,-2.1546987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO GARAY</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9057924,-2.1981221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO PROSPERINA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9409069,-2.1415376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>CENTROS DE SALUD</name>
+      <Placemark>
+        <name>UNIDAD MÉDICA PUNA</name>
+        <styleUrl>#icon-1624-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9086028,-2.7391204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UNIDAD MÉDICA EL MORRO</name>
+        <styleUrl>#icon-1624-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3279476,-2.6338965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DISPENSARIO TERMINAL TERRESTRE</name>
+        <styleUrl>#icon-1624-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8797641,-2.1432924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO ISLA TRINITARIA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9196117,-2.2360945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CONSULTORIO JUAN GOMEZ RENDON</name>
+        <styleUrl>#icon-1624-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3653551,-2.4073285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO MEDICO SAMANES</name>
+        <styleUrl>#icon-1624-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9028539,-2.1034838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DISPENSARIO DE LA PEQUEÑA INDUSTRIA</name>
+        <styleUrl>#icon-1624-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8887042,-2.1583562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL DEL KARTODROMO</name>
+        <styleUrl>#icon-1624-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8758166,-2.2591468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL BICENTENARIO</name>
+        <styleUrl>#icon-1624-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8893457,-2.1974745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO PROGRESO</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3665659,-2.4077018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>OTROS</name>
+      <Placemark>
+        <name>EDIFICIO VALRA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8807777,-2.1957845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CASTILLO ESPRONCEDA</name>
+        <styleUrl>#icon-1547-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8860561,-2.2107926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO DE ACOPIO SAN EDUARDO</name>
+        <styleUrl>#icon-1565-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9345496,-2.18497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EX PROCESADORA DE BASURA</name>
+        <styleUrl>#icon-1565-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9607877,-2.1062412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RELOJ PUBLICO DE GUAYAQUIL</name>
+        <styleUrl>#icon-1547-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.880409,-2.1957504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARQUE COMUNITARIO Y CONSULTORIO SOCIAL DEL GUASMO</name>
+        <styleUrl>#icon-1720-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8767316,-2.2545578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OFICINAS Y ARCHIVOS DE CONTABILIDAD </name>
+        <styleUrl>#icon-1547-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8847925,-2.1975179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CUARTO DE ANTENA REPETIDORA</name>
+        <styleUrl>#icon-1565-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9503747,-2.1729314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLAYA VARADERO</name>
+        <styleUrl>#icon-1720-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.299794,-2.7232869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO DE INSPECCIÓN SANITARIA</name>
+        <styleUrl>#icon-1547-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8973085,-2.2111219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARCHIVO PASIVO COVIEM</name>
+        <styleUrl>#icon-1547-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9039603,-2.2373612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO CARAGUAY</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8871645,-2.2267522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLAZA COLON</name>
+        <styleUrl>#icon-1649-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8769901,-2.1826234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PASAJE EL CORREO</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8821822,-2.1942418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDIFICIO NOGUCHI</name>
+        <styleUrl>#icon-1547-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8879503,-2.2042324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OFICINA DE AMBIENTE</name>
+        <styleUrl>#icon-1547-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9021646,-2.103264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OFICINA DE DEPORTES</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9026978,-2.103426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OFICINA DE PROTECCIÓN ANIMAL</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9024968,-2.1033495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OFICINA DE RESPUESTA CIUDADANA</name>
+        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9023842,-2.1033334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>CENTRO DE ESTUDIOS</name>
+      <Placemark>
+        <name>BIBLIOTECA SOPHIA</name>
+        <styleUrl>#icon-1726-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8859413,-2.2089329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MUSEO JULIO JARAMILLO</name>
+        <styleUrl>#icon-1834-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8741676,-2.1816712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO DE ESTUDIO 4 DE ENERO</name>
+        <styleUrl>#icon-1726-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8967048,-2.2105577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO MUNICIPAL DE AUDICIÓN Y LENGUAJE</name>
+        <styleUrl>#icon-1726-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8996061,-2.2022463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>1 mes</name>
+      <Placemark>
+        <name>TUNELES CERRO DEL CARMEN Y SANTA ANA</name>
+        <description><![CDATA[nombre: TUNELES CERRO DEL CARMEN Y SANTA ANA<br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value>TUNELES CERRO DEL CARMEN Y SANTA ANA</value>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8786689,-2.178866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIBLIOTECA MUNICIPAL</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8826264,-2.1955372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MUSEO MUNICIPAL</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8825862,-2.1957597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO ARTESANAL MACHALA</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8927132,-2.1968748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PALACIO MUNICIPAL</name>
+        <description><![CDATA[nombre: PALACIO MUNICIPAL<br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value>PALACIO MUNICIPAL</value>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo
+SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8810909,-2.1951216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO JOSE MASCOTE</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8944639,-2.1954272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO CENTRAL</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8877662,-2.1939124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO ESTE</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8864303,-2.2045678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO DE HABILIDADES VALIENTES</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo
+SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8854617,-2.1740042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDIFICIO CRILLON MARTIN AVILES</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo
+SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8813604,-2.1950238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL DEL DÍA ISABEL ESTRADA DE JURADO POSORJA.</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.244825,-2.710053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO GOMEZ RENDON</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9231538,-2.1953653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2 mes</name>
+      <Placemark>
+        <name>TUNEL SAN EDUARDO</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9265915,-2.1765935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO TÉCNICO MUNICIPAL CTM</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS 1: Operativo<br>SISTEMA DE DETECCIÓN Y ALARMAS 2: No Operativo<br>SISTEMA DE DETECCIÓN Y ALARMAS 3: No Operativo <br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS 1: Operativo
+SISTEMA DE DETECCIÓN Y ALARMAS 2: No Operativo
+SISTEMA DE DETECCIÓN Y ALARMAS 3: No Operativo 
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9389554,-2.1954157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLANTA MUNICIPAL DE ASFALTO </name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8866226,-2.2349665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MUELLE DE LA CARAGUAY</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8867094,-2.2282373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO GUASMO SUR</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.88039,-2.2812545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO SAN GREGORIO</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8926693,-2.2673229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO DE LAS ESCLUSAS</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8935346,-2.2583343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO SANTA TERESITA</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9289246,-2.2052949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO ENRIQUE GRAW RUIZ</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9352558,-2.2134755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO BATALLON DEL SUBURBIO</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9375116,-2.2196939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO MEDICO CISNE II</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: Operativo<br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: Operativo
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9187669,-2.2217774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO DE SALUD FERTIZA</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9057212,-2.2494207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL JACOBO Y MARÍA ELENA RATINOFF </name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS 1: Operativo<br>SISTEMA DE DETECCIÓN Y ALARMAS 2: No Operativo]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS 1: Operativo
+SISTEMA DE DETECCIÓN Y ALARMAS 2: No Operativo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9102973,-2.2060367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL DEL DIA TRINITARIA</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: Operativo]]></description>
+        <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: Operativo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9248978,-2.2485396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>3 mes</name>
+      <Placemark>
+        <name>MERCADO TERMINAL DE TRANSFERENCIA DE VIVERES</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS 1 - 20: No Operativo<br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS 1 - 20: No Operativo
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9436999,-2.0892039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COMPLEJO ZUMAR</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS 1: Operativo<br>SISTEMA DE DETECCIÓN Y ALARMAS 2: Operativo<br>SISTEMA DE DETECCIÓN Y ALARMAS 3: No Operativo <br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS 1: Operativo
+SISTEMA DE DETECCIÓN Y ALARMAS 2: Operativo
+SISTEMA DE DETECCIÓN Y ALARMAS 3: No Operativo 
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9291666,-2.0895475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CONCHA ACUSTICA</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: Operativo<br>SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: Operativo
+SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8980311,-2.104209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POLIFUCIONAL CASA GUAYACA</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8873613,-2.1756808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO DE BIENESTAR ANIMAL.</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: Operativo<br>SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: Operativo
+SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9169028,-2.0765579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRO DE TRATAMIENTO PRIMARIO DE DESINTOXICACION.</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: Operativo<br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: Operativo
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9289975,-2.0838006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO FLORIDA NORTE</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: Operativo<br>SISTEMA DE HIDRAULICO 1: Operativa<br>SISTEMA DE HIDRAULICO 2: No Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: Operativo
+SISTEMA DE HIDRAULICO 1: Operativa
+SISTEMA DE HIDRAULICO 2: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9335943,-2.1270051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO DE SAUCES IX</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.8921887,-2.1293573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO MUNICIPAL MARTHA DE ROLDOS</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: Operativo<br>SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: Operativo
+SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9232795,-2.1448257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO MUNICIPAL VERGELES</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo
+SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9063459,-2.0920847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO MINORISTA DE LA CASUARINA FORTÍN</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE HIDRAULICO: Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE HIDRAULICO: Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9568124,-2.1181878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO SAN JACINTO</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo<br>SISTEMA DE HIDRAULICO: No Operativa]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo
+SISTEMA DE HIDRAULICO: No Operativa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9192637,-2.1223208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL DEL DIA SAMUEL RATINOFF</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: No Operativo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9467888,-2.119432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL ANGEL FELICISIMO ROJAS</name>
+        <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE DETECCIÓN Y ALARMAS: Operativo<br>]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>SISTEMA DE DETECCIÓN Y ALARMAS: Operativo
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9395896,-2.1003612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
