@@ -53,12 +53,7 @@ export function generateReportText(generalInfo, products) {
 
       // Pasos de mantenimiento
       product.pasos.forEach((paso, pasoIndex) => {
-        text += `  PASO ${pasoIndex + 1}: ${paso.descripcion || "[COMPLETAR DESCRIPCIÓN]"}\n`;
-        
-        for (let f = 1; f <= paso.fotos; f++) {
-          text += `    Foto ${f}\n`;
-        }
-        text += "\n";
+        text += `  PASO ${pasoIndex + 1}: ${paso.descripcion || "[COMPLETAR DESCRIPCIÓN]"}\n\n`;
       });
     }
 
