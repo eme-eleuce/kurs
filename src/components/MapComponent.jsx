@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
+import { useRouter } from "next/navigation";
 import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
 import L from "leaflet";
 import { kml } from "@tmcw/togeojson";
@@ -40,18 +41,85 @@ function createColoredIcon(color) {
 
 function FitBounds({ markers }) {
   const map = useMap();
+  const hasInitialized = useRef(false);
 
   useEffect(() => {
-    if (markers.length > 0) {
+    if (markers.length > 0 && !hasInitialized.current) {
       const bounds = L.latLngBounds(markers.map(m => [m.lat, m.lng]));
       map.fitBounds(bounds, { padding: [50, 50] });
+      hasInitialized.current = true;
     }
   }, [markers, map]);
 
   return null;
 }
 
-export default function MapComponent({ kmlData, driveLinks }) {
+function CenterMap({ marker }) {
+  const map = useMap();
+
+  useEffect(() => {
+    if (marker) {
+      map.setView([marker.lat, marker.lng], 16);
+    }
+  }, [marker, map]);
+
+  return null;
+}
+
+function OpenSelectedPopup({ selectedMarker }) {
+  const map = useMap();
+
+  useEffect(() => {
+    if (selectedMarker) {
+      setTimeout(() => {
+        map.eachLayer((layer) => {
+          if (layer instanceof L.Marker) {
+            const latlng = layer.getLatLng();
+            if (latlng.lat === selectedMarker.lat && latlng.lng === selectedMarker.lng) {
+              layer.openPopup();
+            }
+          }
+        });
+      }, 1200);
+    }
+  }, [selectedMarker, map]);
+
+  return null;
+}
+
+function MarkerWithAutoPopup({ marker, isSelected, router }) {
+  return (
+    <Marker
+      position={[marker.lat, marker.lng]}
+      icon={createColoredIcon(marker.color)}
+    >
+      <Popup maxWidth={300}>
+        <div className="p-2">
+          <h3 className="font-bold text-lg text-gray-800 mb-3">{marker.name}</h3>
+          
+          <div className="mb-3">
+            <span className="inline-block px-2 py-1 rounded text-xs font-medium text-white" style={{ backgroundColor: marker.color }}>
+              {marker.category}
+            </span>
+          </div>
+
+          <button
+            onClick={() => router.push(`/dependencias/${encodeURIComponent(marker.name)}`)}
+            className="flex items-center justify-center gap-2 w-full px-4 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-center rounded-lg font-semibold text-sm shadow-md transition-colors"
+          >
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span>Ver en detalle</span>
+          </button>
+        </div>
+      </Popup>
+    </Marker>
+  );
+}
+
+export default function MapComponent({ kmlData, driveLinks, selectedDependencia }) {
+  const router = useRouter();
   const [markers, setMarkers] = useState([]);
   const [selectedMonth, setSelectedMonth] = useState("all");
   const [searchTerm, setSearchTerm] = useState("");
@@ -170,6 +238,21 @@ export default function MapComponent({ kmlData, driveLinks }) {
 
     setFilteredMarkers(filtered);
   }, [selectedMonth, searchTerm, markers]);
+
+  // Efecto para seleccionar dependencia cuando se pasa como parámetro
+  useEffect(() => {
+    if (selectedDependencia && markers.length > 0) {
+      const marker = markers.find(m => 
+        m.name.toLowerCase() === selectedDependencia.toLowerCase()
+      );
+      if (marker) {
+        setSelectedMarker(marker);
+        // No establecer searchTerm para evitar conflictos con el filtro
+        // El mapa se centrará automáticamente con CenterMap
+      }
+    }
+  }, [selectedDependencia, markers]);
+
 
   // Calcular sugerencias
   const suggestions = searchTerm.trim() 
@@ -366,49 +449,26 @@ export default function MapComponent({ kmlData, driveLinks }) {
         className="z-0"
       >
         <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          attribution='Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+          url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+        />
+        <TileLayer
+          url="https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}"
         />
         
-        <FitBounds markers={filteredMarkers} />
+        {selectedMarker ? <CenterMap marker={selectedMarker} /> : <FitBounds markers={filteredMarkers} />}
 
-        {filteredMarkers.map((marker, index) => (
-          <Marker
-            key={index}
-            position={[marker.lat, marker.lng]}
-            icon={createColoredIcon(marker.color)}
-          >
-            <Popup maxWidth={300}>
-              <div className="p-2">
-                <h3 className="font-bold text-lg text-gray-800 mb-2">{marker.name}</h3>
-                
-                <div className="mb-3">
-                  <span className="inline-block px-2 py-1 rounded text-xs font-medium text-white" style={{ backgroundColor: marker.color }}>
-                    {marker.category}
-                  </span>
-                </div>
-
-                {marker.driveLink ? (
-                  <a
-                    href={marker.driveLink}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center justify-center gap-2 w-full px-4 py-3 text-white text-center rounded-lg font-semibold text-base shadow-md"
-                  >
-                    <span className="text-xl">📁</span>
-                    <span>Abrir Fotos en Drive</span>
-                  </a>
-                ) : (
-                  <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-3">
-                    <p className="text-sm text-yellow-800 font-medium">
-                      ⚠️ Link de Drive no configurado
-                    </p>
-                  </div>
-                )}
-              </div>
-            </Popup>
-          </Marker>
-        ))}
+        {filteredMarkers.map((marker, index) => {
+          const isSelected = selectedMarker && selectedMarker.name === marker.name;
+          return (
+            <MarkerWithAutoPopup
+              key={index}
+              marker={marker}
+              isSelected={isSelected}
+              router={router}
+            />
+          );
+        })}
       </MapContainer>
     </div>
   );

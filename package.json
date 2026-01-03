@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@tmcw/togeojson": "^7.1.2",
+    "docx": "^9.5.1",
+    "file-saver": "^2.0.5",
     "leaflet": "^1.9.4",
     "next": "16.0.8",
     "react": "19.2.1",

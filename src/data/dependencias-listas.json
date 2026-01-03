@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generado": "2026-01-03T04:25:43.754Z",
+    "total_dependencias": 12,
+    "mes": 1,
+    "descripcion": "Dependencias completadas"
+  },
+  "dependencias": [
+    {
+      "nombre": "EDIFICIO CRILLON",
+      "mes": 1,
+      "total_productos": 8,
+      "total_adquisiciones": 0,
+      "total_mantenimientos": 8
+    },
+    {
+      "nombre": "TÚNEL SANTA ANA Y CERRO DEL CARMEN",
+      "mes": 1,
+      "total_productos": 15,
+      "total_adquisiciones": 5,
+      "total_mantenimientos": 10
+    },
+    {
+      "nombre": "PALACIO MUNICIPAL",
+      "mes": 1,
+      "total_productos": 10,
+      "total_adquisiciones": 6,
+      "total_mantenimientos": 4
+    },
+    {
+      "nombre": "BIBLIOTECA MUNICIPAL",
+      "mes": 1,
+      "total_productos": 4,
+      "total_adquisiciones": 0,
+      "total_mantenimientos": 4
+    },
+    {
+      "nombre": "MUSEO MUNICIPAL",
+      "mes": 1,
+      "total_productos": 5,
+      "total_adquisiciones": 0,
+      "total_mantenimientos": 5
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA ISABEL ESTRADA DE JURADO DE POSORJA",
+      "mes": 1,
+      "total_productos": 13,
+      "total_adquisiciones": 4,
+      "total_mantenimientos": 9
+    },
+    {
+      "nombre": "CENTRO DE DESARROLLO DE HABILIDADES VALIENTE",
+      "mes": 1,
+      "total_productos": 9,
+      "total_adquisiciones": 0,
+      "total_mantenimientos": 9
+    },
+    {
+      "nombre": "MERCADO ARTESANAL MACHALA",
+      "mes": 1,
+      "total_productos": 8,
+      "total_adquisiciones": 3,
+      "total_mantenimientos": 5
+    },
+    {
+      "nombre": "MERCADO JOSÉ MASCOTE",
+      "mes": 1,
+      "total_productos": 15,
+      "total_adquisiciones": 5,
+      "total_mantenimientos": 10
+    },
+    {
+      "nombre": "MERCADO ESTE",
+      "mes": 1,
+      "total_productos": 10,
+      "total_adquisiciones": 1,
+      "total_mantenimientos": 9
+    },
+    {
+      "nombre": "MERCADO CENTRAL",
+      "mes": 1,
+      "total_productos": 13,
+      "total_adquisiciones": 6,
+      "total_mantenimientos": 7
+    },
+    {
+      "nombre": "MERCADO GOMEZ RENDÓN",
+      "mes": 1,
+      "total_productos": 14,
+      "total_adquisiciones": 4,
+      "total_mantenimientos": 10
+    }
+  ]
+}

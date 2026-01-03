@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import Navigation from "@/components/Navigation";
@@ -10,6 +11,8 @@ const MapComponent = dynamic(() => import("@/components/MapComponent"), {
 });
 
 export default function MapaPage() {
+  const searchParams = useSearchParams();
+  const dependenciaParam = searchParams.get('dependencia');
   const [kmlData, setKmlData] = useState(null);
   const [driveLinks, setDriveLinks] = useState({});
   const [loading, setLoading] = useState(true);
@@ -89,7 +92,7 @@ export default function MapaPage() {
 
       {/* Mapa */}
       <div className="h-[calc(100vh-64px)]">
-        <MapComponent kmlData={kmlData} driveLinks={driveLinks} />
+        <MapComponent kmlData={kmlData} driveLinks={driveLinks} selectedDependencia={dependenciaParam} />
       </div>
     </div>
   );

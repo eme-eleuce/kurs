@@ -1,0 +1,4285 @@
+{
+  "metadata": {
+    "generado": "2025-12-31T00:49:24.654321",
+    "fuente": "MIMG - KURS.xlsx - Hoja: Esp. por Dependencia",
+    "total_dependencias": 40,
+    "descripcion": "Detalle completo de todos los productos por dependencia incluyendo adquisiciones, mantenimientos y otros",
+    "total_productos": 443,
+    "por_tipo": {
+      "adquisicion": 138,
+      "mantenimiento_preventivo": 256,
+      "mantenimiento_correctivo": 49,
+      "mantenimiento": 0,
+      "otro": 0
+    }
+  },
+  "dependencias": [
+    {
+      "nombre": "CENTRO TÉCNICO MUNICIPAL",
+      "mes": 2,
+      "total_productos": 20,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Nidec 50hp",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Dab de 7.5 hp",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 169,
+          "item": "ROCIADORES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "PITONES CON EDUCTORES DE EPSUMA CONTRA INCENDIOS DE 2 1/2\"",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitón con eductor de espuma de 2 ½ pulgadas",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 26,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 12,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 4,
+          "item": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de manómetros",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "VÁLVULA DE ÁNGULO PARA PROTECCIÓN CONTRA INCENDIO DE 2 ½ PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de válvulas de 2 ½ pulgadas.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 8,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2213,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 10,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de gabinetes (estructura metálica)",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 5,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch",
+          "modelo": "FDP -7024",
+          "codigo": "411947-48-49",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 47,
+          "item": "DETECTOR DE HUMO",
+          "marca": "Bosch",
+          "modelo": "FAP - 425",
+          "codigo": "411949",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 7,
+          "item": "DETECTOR DE HUMO",
+          "marca": "Bosch",
+          "modelo": "FAP - 425",
+          "codigo": "411949",
+          "accion": "Adquisición de detector de humo",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 10,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": "Bosch",
+          "modelo": "WHS",
+          "codigo": "411949",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": "Bosch",
+          "modelo": "WHS",
+          "codigo": "411949",
+          "accion": "Adquisición de luces estroboscópicas",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 12,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Bosch",
+          "modelo": "WHS",
+          "codigo": "411949",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "TERMINAL DE TRANSFERENCIAS DE VÍVERES",
+      "mes": 3,
+      "total_productos": 9,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL DE COMBUSTIÓN",
+          "marca": "Clarke 50hp",
+          "modelo": "C01698",
+          "codigo": "420495",
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Grundfos 7,5",
+          "modelo": "A96518036P3182 8",
+          "codigo": "420495",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": "Firetrol",
+          "modelo": "LL-1580",
+          "codigo": "420495",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "TARJETA ELECTRÓNICA DE PANEL CONTROLADOR DE BOMBAS",
+          "marca": "Firetrol",
+          "modelo": "LL-1580",
+          "codigo": "420495",
+          "accion": "Adquisición de tarjeta electrónica de panel",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 36,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "420495",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 8,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "420495",
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera de 15 metros 1 ½, extintor de 10 lbs PQS, pitón de bronce)",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "420495",
+          "accion": "Adquisición de manómetros",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 872,
+          "item": "ROCIADORES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 500,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MUELLE CARAGUAY",
+      "mes": 2,
+      "total_productos": 15,
+      "productos": [
+        {
+          "cantidad": 2,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Siemens Weg 60 hp",
+          "modelo": "W 22",
+          "codigo": "420412",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "BOMBA JOCKEY",
+          "marca": "Siemens Weg 45 hp",
+          "modelo": "W 22",
+          "codigo": "420413",
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": "Barnes de 5 hp",
+          "modelo": "VE 1,2550",
+          "codigo": "420712",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 13,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "420713",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "PITONES CON EDUCTORES DE EPSUMA CONTRA INCENDIOS DE 2 1/2\"",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitón con eductor de espuma de 2 ½ pulgadas",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "TANQUES DE ESPUMA CONTRA INCENDIO DE 55 GALONES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de tanques de espuma",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 9,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "420713",
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 4,
+          "item": "VÁLVULA DE ÁNGULO PARA PROTECCIÓN CONTRA INCENDIO DE 1 ½ PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "420713",
+          "accion": "Adquisición de válvulas de ángulo de 1 ½ pulgadas.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 250,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 8,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 30 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch",
+          "modelo": "FDP -7024",
+          "codigo": "428966- 351338",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 27,
+          "item": "DETECTOR DE HUMO",
+          "marca": "Bosch",
+          "modelo": "FAP - 425",
+          "codigo": "2019812999",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 9,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": "Bosch",
+          "modelo": "WHS",
+          "codigo": "2019812999",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 10,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Bosch",
+          "modelo": "FMC-420RW",
+          "codigo": "2019812999",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "EDIFICIO CRILLON",
+      "mes": 1,
+      "total_productos": 8,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Siemens de 10 hp",
+          "modelo": "LA7 130",
+          "codigo": "20197000000",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Norwik 3hp",
+          "modelo": "CV2-15T",
+          "codigo": "20197000000",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "20197000000",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "20197000000",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch",
+          "modelo": "FDP -7024",
+          "codigo": "2019812999",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 50,
+          "item": "DETECTOR DE HUMO",
+          "marca": "Bosch",
+          "modelo": "FAP - 425",
+          "codigo": "2019812999",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 13,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": "Bosch",
+          "modelo": "WHS",
+          "codigo": "2019812999",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 11,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": "2019812999",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "TÚNEL SANTA ANA Y CERRO DEL CARMEN",
+      "mes": 1,
+      "total_productos": 15,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL DE COMBUSTIÓN",
+          "marca": "Grundfos 50hp",
+          "modelo": "NK65-250/270",
+          "codigo": "338330",
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Grundfos 3,5hp",
+          "modelo": "A9840",
+          "codigo": "338330",
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "338300",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 16,
+          "item": "VÁLVULA DE ÁNGULO PARA PROTECCIÓN CONTRA INCENDIO DE 2 ½ PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "338300",
+          "accion": "Adquisición de válvulas de 2 ½ pulgadas.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "HIDRANTE DE 6”",
+          "marca": "6 Pulg",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hidrante",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 16,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 16,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 16,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 16,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 30 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1000,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch",
+          "modelo": "FDP -7024",
+          "codigo": "338299",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "DETECTOR DE HUMO",
+          "marca": "Bosch",
+          "modelo": "FAP - 425",
+          "codigo": "338299",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": "Bosch",
+          "modelo": "WHS",
+          "codigo": "338299",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Bosch",
+          "modelo": "FMM-7045",
+          "codigo": "338299",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "TÚNEL SAN EDUARDO",
+      "mes": 2,
+      "total_productos": 12,
+      "productos": [
+        {
+          "cantidad": 2,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Paterson de 75hp",
+          "modelo": "Motor Weg 1008694290 75 hp Centrifuga Paterson 5X3X11 ES",
+          "codigo": "359371/3593 72",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Paterson de 7.5hp",
+          "modelo": "204839",
+          "codigo": "359371/3593 72",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "359371/3593 72",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 14,
+          "item": "HIDRANTE DE 6”",
+          "marca": "6 Pulg",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "HIDRANTE DE 6”",
+          "marca": "6 Pulg",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hidrante",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 6,
+          "item": "VÁLVULA COMPUERTA RANURADA DE PASO PARA HIDRANTE DE 6\"",
+          "marca": null,
+          "modelo": null,
+          "codigo": "359371/3593 72",
+          "accion": "Adquisición de válvula compuerta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 50,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch",
+          "modelo": "FDP -7024",
+          "codigo": "2019611204",
+          "accion": "Mantenimiento correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 6,
+          "item": "DETECTOR DE HUMO",
+          "marca": "Bosch",
+          "modelo": "FAP - 425",
+          "codigo": "2019611204",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": "Bosch",
+          "modelo": "WHS",
+          "codigo": "2019611204",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Bosch",
+          "modelo": "FMM-7045",
+          "codigo": "2019611204",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "PALACIO MUNICIPAL",
+      "mes": 1,
+      "total_productos": 10,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "ITT Gouds Pumpsde 25 hp",
+          "modelo": "3656",
+          "codigo": "278949",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Grundfos de 3,5 hp",
+          "modelo": "A96517779P1100 5",
+          "codigo": "278949",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "278949",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 7,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 13,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "278941/2789 47/",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 16,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de manómetros",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 8,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "278941/2789 47/",
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "BIBLIOTECA MUNICIPAL",
+      "mes": 1,
+      "total_productos": 4,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Siemens",
+          "modelo": "MLX-IQ",
+          "codigo": "277335",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 26,
+          "item": "DETECTOR DE HUMO",
+          "marca": "Siemens",
+          "modelo": "FP-11",
+          "codigo": "277335",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 18,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": "Siemens",
+          "modelo": "STV",
+          "codigo": "277335",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 18,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Siemens",
+          "modelo": "A5Q",
+          "codigo": "277335",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MUSEO MUNICIPAL",
+      "mes": 1,
+      "total_productos": 5,
+      "productos": [
+        {
+          "cantidad": 3,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch/(2)DSC",
+          "modelo": "FDP -7024",
+          "codigo": "2019642340",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 131,
+          "item": "DETECTOR DE HUMO",
+          "marca": "Bosch/ Siemens",
+          "modelo": "FAP - 425",
+          "codigo": "2019642340",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 15,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": "Bosch",
+          "modelo": "WHS",
+          "codigo": "2019642340",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 18,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Bosch",
+          "modelo": "FMM-7045",
+          "codigo": "2019642340",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "CONTROLADORA DE SIRENAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "2019642340",
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "CENTRO DE BIENESTAR ANIMAL",
+      "mes": 3,
+      "total_productos": 13,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Marca: Nema 40 HP 1780 RPM 230 Volt",
+          "modelo": "Modelo: 22702708-100",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: horizontal Marca: Turi 3500 RPM 2.2 KW M3/H: 2",
+          "modelo": "Modelo: VMSS2- 110",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 8,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo, Adquirir parte faltantes",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 59,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 18,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estación manual",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "CENTRO DE TRATAMIENTO PRIMARIO DE DESINTOXICACIÓN PARA ADICCIONES-BASTIÓN POPULAR",
+      "mes": 3,
+      "total_productos": 10,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL DE COMBUSTIÓN",
+          "marca": "Tipo: Bomba principal diésel 75 HP 3000 RPM",
+          "modelo": "FD490Z",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Vertical Marca: Baldor 3500 RPM: 2 HP",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 6,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 66,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 7,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 8,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Bosch",
+          "modelo": "FMM-100-S.",
+          "codigo": null,
+          "accion": "Adquisición de estaciones manuales",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Bosch",
+          "modelo": "FMM-100-S.",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "COMPLEJO POLIFUNCIONAL ZUMAR",
+      "mes": 3,
+      "total_productos": 15,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Nema",
+          "modelo": "Modelo: FC 83 50 HP 1780 RPM Volts 230 -460",
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Horizontal Marca: Grundfos",
+          "modelo": "Modelo: A- 96935599-P3- 1745 PSI max. 145 GPM 16.4",
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 6,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo, Adquirir parte faltantes",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch",
+          "modelo": "Compatible con Detectores Bosch D7050, Bosh FMM7045.",
+          "codigo": null,
+          "accion": "Adquirir un Panel de Detección y Alarma",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 134,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 11,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 9,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Bosch",
+          "modelo": "FMM-100-S.",
+          "codigo": null,
+          "accion": "Adquisición de estaciones manuales",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": "Bosch",
+          "modelo": "FMM-100-S.",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA CISNE II",
+      "mes": 2,
+      "total_productos": 8,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL DE COMBUSTIÓN",
+          "marca": "Marca: Clarke",
+          "modelo": "Marca: John Deere Modelo: 4045DF159 4.5 L Marca: SPP PUMPS Modelo: TD10E",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": null,
+          "modelo": "1.5 HP 230 V 3 PH",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 29,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estaciones manuales",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "CENTRO MEDICO FERTISA",
+      "mes": 2,
+      "total_productos": 8,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Motor eléctrico: Baldor",
+          "modelo": "RPM: 3450 HP: 15 Centrifuga: Modelo: 6BF1M2B0",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Vertical",
+          "modelo": "Motor eléctrico: RPM: 3450 HP: 2 Centrifuga: m3/h: 3 Bar: 25",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO LAS ESCLUSAS",
+      "mes": 2,
+      "total_productos": 9,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Eléctrica Marca: Weg",
+          "modelo": "Modelo: 284TS Hp: 30 RPM: 3600 VOLTS: 220/380/440 Centrifuga Marca: Mark Modelo: DN50-20 RPM: 1800",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Vertical multietapa MARCA: Barnes",
+          "modelo": "MODELO: VSE 2 11-30 HP: 3 RPM: 3450",
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 9,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 7,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "420495",
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera de 15 metros 1 ½, extintor de 10 lbs, PQS, pitón de bronce)",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 7,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo, Adquirir parte faltantes",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de Siamesa",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO PROSPERINA",
+      "mes": 3,
+      "total_productos": 11,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo:Bomba monobloque succión negativa: Motor eléctrico: Marca: BALDOR",
+          "modelo": "Modelo: JML1409T HP: 5 RPM: 3450 Volt: 208-230 1PH Amp: 24-23",
+          "codigo": null,
+          "accion": "Adquirir e instalar bomba centrifuga con su tablero de control.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "No tiene bomba jockey, utiliza un tanque hidroneumático para mantener la presión en el sistema",
+          "modelo": "No existente",
+          "codigo": null,
+          "accion": "Adquirir e instalar bomba jockey con su tablero de control.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de maguera de 15 metros 1 ½, extintor de 10 lbs PQS, pitón de bronce)",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 6,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 10,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de Siamesa",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO MARTHA DE ROLDOS",
+      "mes": 3,
+      "total_productos": 11,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Succión negativa, Motor eléctrico  Marca: ABB",
+          "modelo": "Modelo: M2QA160L2A B3 25 HP 3450 - 3520 RPM - Centrifuga Marca: SAER Modelo: NCB40- 20B/NA",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Bomba vertical, succión negativa",
+          "modelo": "Motor eléctrico: Marca: EBARA Modelo: EVMSL1 20F6 RPM: 3500 HP: 2",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "DETECTOR DE HUMO/TEMPERATURA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 5,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA ISABEL ESTRADA DE JURADO DE POSORJA",
+      "mes": 1,
+      "total_productos": 13,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Eléctrica de turbina vertical, cabezal de hierro fundido con columna roscada Marca: EMERSON",
+          "modelo": "Modelo: 88696185-100 HP 25 RPM 1765 Volts 230",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Vertical Motor eléctrico:",
+          "modelo": "Modelo: Y2-90S-2 RPM: 3450 HP: 2 Centrifuga: Modelo: VSE 3 11-20-1 m3/h: 3 Bar: 25",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 8,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquirir un Panel de Detección y Alarma",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 37,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estación manual",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "CENTRO DE DESARROLLO DE HABILIDADES VALIENTE",
+      "mes": 1,
+      "total_productos": 9,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Eléctrica Marca: IHM",
+          "modelo": "Modelo: M/B IHM 5X26 - 30 TW 30 HP 220 / 380 / 440 V 3535 RPM Centrifuga Modelo: 5X26- 38TW3500",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Vertical Marca: Foras",
+          "modelo": "Modelo: 3SV- 300/8T Q: 2 - 20 GPM 3 HP 3400 RPM 220/380 V 3 PH",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 6,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 49,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 5,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 5,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "CONCHA ACÚSTICA DE PARQUE SAMANES",
+      "mes": 3,
+      "total_productos": 8,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Eléctrica Marca: Baldor",
+          "modelo": "20 HP",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": null,
+          "modelo": "2 HP",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA ÁNGEL FELICÍSIMO ROJAS",
+      "mes": 3,
+      "total_productos": 5,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 52,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 7,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 9,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estaciones manuales",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA JACOBO Y MARIA ELENA RATINOFF",
+      "mes": 2,
+      "total_productos": 6,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 32,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 8,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estación manual",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA SAMUEL RATINOFF",
+      "mes": 2,
+      "total_productos": 4,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 44,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estación manual",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA ISLA TRINITARIA",
+      "mes": 2,
+      "total_productos": 4,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 22,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 6,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estación manual",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO FLORIDA NORTE",
+      "mes": 3,
+      "total_productos": 18,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Bomba eléctrica de eje libre, succión negativa Marca: WEG",
+          "modelo": "Modelo: 256T 25 HP 3530 RPM VOLTS 380 3PH Centrifuga Marca: GRUNDFOS Modelo: NK40 200/219 Q: 46 GPM RPM: 3600 Succión: 3 pulg. Descarga: 2 1/2 pulg.",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Bomba vertical multietapa, succión negativa Motor eléctrico Marca: BALDOR",
+          "modelo": "Modelo: 84Z04054 2 HP 3490 RPM VOLTS: 208- 230/460 3PH Centrifuga Marca: GRUNDFOS Modelo:A960830 72P118280002 Q: 15.41 GPM Succión: 1 pulg. Descarga: 1 pulg.",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 7,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de Siamesa",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Bomba eléctrica de eje libre, succión negativa Marca: WEG",
+          "modelo": "Modelo: 256T 25 HP 3530 RPM VOLTS 380 3PH Centrifuga Marca: GRUNDFOS Modelo: NK40 200/219 Q: 46 GPM RPM: 3600 Succión: 3 pulg. Descarga: 2 1/2 pulg.",
+          "codigo": null,
+          "accion": "Adquirir e instalar bomba centrifuga con su tablero de control.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Marca: PEDROLLO Bomba monobloque, succión negativa",
+          "modelo": "Modelo: CP 680C 5,5 HP 3450 RPM VOLTS: 220 2PH Centrifuga Q:50 – 98 GPM Succión: 2 pulg. Descarga: 2 pulg.",
+          "codigo": null,
+          "accion": "Adquirir e instalar bomba jockey con su tablero de control.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 6,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 5,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de Siamesa",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Marca: Bosch",
+          "modelo": "Modelo: FPD- 7024",
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 6,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de detector de humo",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estaciones manuales",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO ARTESANAL MACHALA",
+      "mes": 1,
+      "total_productos": 8,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Bomba eléctrica de eje libre, succión negativa Marca: WEG",
+          "modelo": "Modelo: 256T 25 HP 3530 RPM VOLTS 380 3PH Centrifuga Marca: GRUNDFOS Modelo: NK40 200/219 Q: 46 GPM RPM: 3600 Succión: 3 pulg. Descarga: 2 1/2 pulg.",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Bomba vertical, succión positiva Motor  eléctrico Marca: BARNES",
+          "modelo": "Modelo: Y2-802-2 RPM: 3450 HP: 1,5 Volt: 220 2P Centrifuga: Marca: BARNES Modelo: VSE 1 13-15-1 Q: 4,4 GPM",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 6,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 6,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo, Adquirir parte faltantes",
+          "tipo": "mantenimiento_correctivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO JOSÉ MASCOTE",
+      "mes": 1,
+      "total_productos": 15,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Bomba eléctrica, succión positiva: Motor Marca: WEG",
+          "modelo": "Modelo: 256T HP: 25 RPM: 1465 VOLTS 220/380/440 3PH AMP: 61,3/35,5/30,6 Centrifuga Marca: GRUNDFOS Modelo: NK 40 200/219 Q: 212,66 GPM RPM: 2930",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Bomba vertical, succión positiva Motor eléctrico Marca: GRUNDFOS",
+          "modelo": "Modelo: MG90LC2- 24FT115-H3 HP: 3 RPM: 3501 Volt: 220- 230/240 2P Centrifuga: Marca: GRUNDFOS Modelo: CR3-13 A-A-A-E-HQQE Q: 13,2 GPM",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 10,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 4,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 9,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 36,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo, Adquirir parte faltantes",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Marca: Bosch",
+          "modelo": "Modelo: FPD- 7024",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 9,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO ESTE",
+      "mes": 1,
+      "total_productos": 10,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Eléctrica de turbina horizontal Marca: Saer Elettropompe",
+          "modelo": "Modelo: NCB50- 200/NA 30 HP 1800 RPM",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo:  Vertical Marca:    Saer Elettropompe",
+          "modelo": "Modelo: 6MKM32R/8 3600 RPM 3 HP Q: 2 - 9",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 4,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo, Adquirir parte faltantes",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Detnov",
+          "modelo": "CCD-103",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 6,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 6,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 9,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO SAUCES IX",
+      "mes": 3,
+      "total_productos": 10,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Eléctrica de turbina horizontal Marca: WEG",
+          "modelo": "W22 Modelo: W22 3525RPM 10 HP",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Vertical Marca: WEG",
+          "modelo": "Modelo: Y2- 112M-2 3459 RPM 5 HP",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 11,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 20,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 10,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 8,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 10,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 10,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO BATALLÓN DEL SUBURBIO",
+      "mes": 2,
+      "total_productos": 16,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Bomba eléctrica, succión positiva, Marca: WEG",
+          "modelo": "Motor Modelo: 256T HP: 25 RPM: 1465 VOLTS 220/380/440 3PH AMP: 61,3/35,5/30,6 Centrifuga Marca: BARNES Modelo: QU2 Q: 408 GPM RPM: 3600",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Bomba vertical, succión positiva Motor eléctrico: Marca: BARNES",
+          "modelo": "Modelo: VSE 1 17-20-1 HP: 2 RPM: 3450 Volt: 220- 230/240 2P Centrifuga: Q: 4,4 GPM Presión: 367 PSI",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 7,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 7,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 26,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Marca: Bosch",
+          "modelo": "Modelo: FPD- 7024",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 7,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "DETECTOR DE HUMO (FOTOBEAMS)",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO MUNICIPAL VERGELES",
+      "mes": 3,
+      "total_productos": 10,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Bomba eléctrica, Vertical Marca: NEMA",
+          "modelo": "Motor Modelo: HF82 RPM: 1785",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Bomba vertical, Sumergible",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Detnov",
+          "modelo": "CCD-103",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 13,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de detector de humo",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 7,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO CENTRAL",
+      "mes": 1,
+      "total_productos": 13,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Tipo: Bomba eléctrica, Vertical Motor Marca: NEMA",
+          "modelo": "Modelo: 18705842-100 60 HP RPM: 1760",
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Bomba Eléctrica Vertical",
+          "modelo": "Motor Marca: Grundfos Modelo: A98493506P3164 7 1,5 KW RPM: 3503",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 5,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera de 15 metros 1 ½, extintor de 10 lbs PQS, pitón de bronce)",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 9,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 42,
+          "item": "ROCIADORES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BANCO DE VÁLVULAS PARA ROCIADORES",
+          "marca": "3 Pulg",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de Siamesa",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 300,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "PLANTA MUNICIPAL DE ASFALTO PDVSA",
+      "mes": 2,
+      "total_productos": 25,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL DE COMBUSTIÓN",
+          "marca": "Tipo: Motor a Combustión Diesel con bomba horizontal carcaza partida Marca: Cummins",
+          "modelo": "Modelo: 47202- 3005 125 HP 2100 RPM",
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Tipo: Vertical Marca: Norwik",
+          "modelo": "Modelo: CV2-15T 3450 RPM 10 KW M3/H: 2",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "CANECAS DE ESPUMA CONTRA INCENDIOS 5 GAL",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de canecas de Espuma Contra Incendios de 5 Gal",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "EDUCTOR DE ESPUMA DE 1 1/2\" PARA GABINETE",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de un eductor de espuma contra incendio de 1 1/2\"",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "MONITORES CONTRA INCENDIOS DE 2 1/2\"",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "PITONES CON EDUCTORES DE EPSUMA CONTRA INCENDIOS DE 2 1/2\"",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitón con eductor de espuma de 2 ½ pulgadas",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 28,
+          "item": "ROCIADORES",
+          "marca": "Tipo Diluvio",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "EDUCTOR DE ESPUMA CONTRA INCENDIOS EN TUBERÍA DE 6\"",
+          "marca": "6 Pulg",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "TANQUES DE ESPUMA CONTRA INCENDIO DE 55 GALONES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de tanques de espuma",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "BANCO DE VÁLVULAS PARA ROCIADORES",
+          "marca": "6 Pulg",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "VÁLVULAS DE BASTAGO DE 6 Pulg",
+          "marca": "Crane Steel 150 WCB",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "VÁLVULA DE COMPUERTA DE 4 Pulg",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "HIDRANTE DE 6”",
+          "marca": "6 Pulg",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "TOMA DE AGUA DE 2 1/2\"",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TANQUES DE AGUA DE 65 000 GAL",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 200,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch",
+          "modelo": "FPD-7024",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 7,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estacion manual",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO SANTA TERESITA",
+      "mes": 2,
+      "total_productos": 9,
+      "productos": [
+        {
+          "cantidad": 5,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 10,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 5,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 4,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 5,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 5,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "420495",
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera de 15 metros 1 ½, extintor de 10 lbs PQS, pitón de bronce)",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 30,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo, Adquirir parte faltantes",
+          "tipo": "mantenimiento_correctivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO GOMEZ RENDÓN",
+      "mes": 1,
+      "total_productos": 14,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Bomba eléctrica, succión positiva: Motor Marca: WEG",
+          "modelo": "Modelo: YX3– 180M-2 HP: 29,5 RPM: 3555 VOLTS 220 3P Centrifuga HYDROTEK Modelo: AIX 40/26H Q: 158,5 GPM RPM: 2900",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Bomba vertical, succión positiva Motor eléctrico: Marca: HYDROTEK",
+          "modelo": "Modelo: ADL 27 HP: 2 RPM: 3480 Volt: 230/380 2P RPM: 3500 Q: 8,8 GPM",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 10,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 5,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 2,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 5,
+          "item": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de hachas de bombero",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 5,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 38,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo, Adquirir parte faltantes",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "SmartLine",
+          "modelo": "020-4",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 53,
+          "item": "DETECTOR DE HUMO",
+          "marca": "IRIS ID20",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 5,
+          "item": "ESTACIONES MANUALES",
+          "marca": "IC0020",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO ENRIQUE GRAU RUIZ",
+      "mes": 2,
+      "total_productos": 12,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Bomba eléctrica, succión positiva: Motor Marca: MARATHON ELECTRIC",
+          "modelo": "Modelo: NK284TSTDP4002 ACL HP: 30 RPM: 3530 VOLTS 230/460 3PH AMP: 72/36",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Bomba  vertical, succión negativa Motor  eléctrico: Marca: BALDOR",
+          "modelo": "Modelo: VN3555 HP: 2 RPM: 3450 VOLTS: 208- 230/460 3PH Centrifuga: Marca: Goulds Water Technology Modelo: 3SV10GE4F20 Q: 16 GPM Succión: 1 1/4\" Descarga: 1 1/4\"",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 6,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 3,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "SmartLine",
+          "modelo": "040-4",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "DETECTOR DE HUMO",
+          "marca": "IRIS ID20",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "ESTACIONES MANUALES",
+          "marca": "IC0020",
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO SAN GREGORIO",
+      "mes": 2,
+      "total_productos": 10,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Bomba eléctrica, succión negativa: Motor Marca: WEG",
+          "modelo": "Modelo: W40 HP: 30 RPM: 3545  VOLTS 220/380/440 3PH AMP: 73/42,2/36,5 Centrifuga: Marca: GRUNDFOS Modelo: NK50- 204 Q: 300,00 GPM RPM: 3545",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Bomba vertical, succión negativa Motor eléctrico: Marca: WEG",
+          "modelo": "Modelo: IR3 HP: 3 RPM: 3450 VOLTS: 220/380 3PH Centrifuga:",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 4,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 26,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de Siamesa",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Marca: INTELBRAS",
+          "modelo": "Modelo: CIE1060",
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 8,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 5,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 5,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO GUASMO SUR",
+      "mes": 2,
+      "total_productos": 13,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL DE COMBUSTIÓN",
+          "marca": "Bomba succión negativa: Motor combustión: Marca: JIANG DONG",
+          "modelo": "Modelo: ZH1130KND HP: 30 RPM: 2200 Comb: Diésel Centrifuga: Marca: WDM Modelo: 81830f",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Bomba vertical, succión negativa Motor eléctrico Marca: BARNES",
+          "modelo": "Modelo: Y2-90L-2 HP: 3 RPM: 3450 VOLTS: 220 2P AMP: 1,3 Marca: BARNES Modelo: VSE 2 11-30-1 Q: 8,8 a 20 GPM Succión: 1 1⁄4”\" Descarga: 1\"",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "EXTINTOR DE PQS 10 LIBRAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de extintor PQS 10 libras.",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 8,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 16,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch",
+          "modelo": "FPD7024",
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 9,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estación manual",
+          "tipo": "adquisicion"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO SAN JACINTO",
+      "mes": 3,
+      "total_productos": 17,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL ELÉCTRICA",
+          "marca": "Bomba succión positiva: Motor eléctrico: Marca: MARATHON",
+          "modelo": "Modelo: TN 284TSTDBD4002 HP: 30 RPM: 2955 Volt: 208/415 3PH Amp: 81/40,6 Centrifuga: Marca: WDM Modelo: 81830f",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Bomba vertical, succión  positiva Motor eléctrico Marca: BARNES",
+          "modelo": "Modelo: Y2-90L-2 HP: 3 RPM: 3450 VOLTS: 220/440 3P AMP: 8,4/4,2 Centrifuga: Marca: BARNES Modelo: VSE 1 21-30 Q: 4,4 a 12 GPM Succión: 1 1⁄4”\" Descarga: 1\"",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de manómetros",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 9,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 1,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": "420495",
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera de 15 metros 1 ½, extintor de 10 lbs PQS, pitón de bronce)",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 10,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 25,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "PANEL DE DETECCIÓN",
+          "marca": "Bosch",
+          "modelo": "FPD7024",
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 9,
+          "item": "DETECTOR DE HUMO",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "LUCES ESTROBOSCÓPICAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "ESTACIONES MANUALES",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de estación manual",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 3,
+          "item": "DETECTOR DE HUMO (FOTOBEAMS)",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo",
+          "tipo": "mantenimiento_preventivo"
+        }
+      ]
+    },
+    {
+      "nombre": "MERCADO LA CASUARINA",
+      "mes": 3,
+      "total_productos": 11,
+      "productos": [
+        {
+          "cantidad": 1,
+          "item": "BOMBA PRINCIPAL DE COMBUSTIÓN",
+          "marca": "Bomba, succión negativa: Motor combustión: Marca: NEMA",
+          "modelo": "Modelo: 256TPH HP: 20 RPM: 1765 Amp. 49 Controlador: TORNATECH GPY-230/20/3/60 Centrifuga: Marca: AC FIRE PUMPS Modelo: FP10WALC-250 Q: 250,00 GPM RPM: 1770",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "BOMBA JOCKEY",
+          "marca": "Bomba sumergible Motor eléctrico",
+          "modelo": "HP: 2 Volts: 230 3Ph Controlador: TornaTech JP3-230/2/3/60",
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "TABLERO ELÉCTRICO CONTROLADOR DE BOMBAS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de vidrios",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 7,
+          "item": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Adquisición de mangueras doble chaqueta",
+          "tipo": "adquisicion"
+        },
+        {
+          "cantidad": 4,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "GABINETE CONTRA INCENDIOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 45,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento preventivo y pintura",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "METROS LINEALES DE TUBERÍA DE SISTEMAS HIDRÁULICOS",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo",
+          "tipo": "mantenimiento_correctivo"
+        },
+        {
+          "cantidad": 2,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Preventivo",
+          "tipo": "mantenimiento_preventivo"
+        },
+        {
+          "cantidad": 1,
+          "item": "SIAMESA",
+          "marca": null,
+          "modelo": null,
+          "codigo": null,
+          "accion": "Mantenimiento Correctivo, Adquirir parte faltantes",
+          "tipo": "mantenimiento_correctivo"
+        }
+      ]
+    }
+  ]
+}

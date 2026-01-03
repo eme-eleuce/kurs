@@ -1,0 +1,31 @@
+{
+  "proyecto": "MIMG - KURS",
+  "descripcion": "Análisis de adquisiciones para sistema contra incendios",
+  "generado": "2025-12-31T00:02:49.809155",
+  "resumen": {
+    "total_productos_unicos": 25,
+    "total_unidades": 571,
+    "total_dependencias": 40,
+    "total_meses": 3
+  },
+  "por_mes": [
+    {
+      "mes": 1,
+      "productos": 13,
+      "unidades": 181,
+      "dependencias": 12
+    },
+    {
+      "mes": 2,
+      "productos": 21,
+      "unidades": 210,
+      "dependencias": 14
+    },
+    {
+      "mes": 3,
+      "productos": 14,
+      "unidades": 180,
+      "dependencias": 14
+    }
+  ]
+}

@@ -1,0 +1,986 @@
+{
+  "metadata": {
+    "generado": "2025-12-31T00:02:49.805970",
+    "total_dependencias": 36
+  },
+  "dependencias": [
+    {
+      "nombre": "CENTRO TÉCNICO MUNICIPAL",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "PITONES CON EDUCTORES DE EPSUMA CONTRA INCENDIOS DE 2 1/2\"",
+          "cantidad": 2,
+          "accion": "Adquisición de pitón con eductor de\nespuma de 2 ½ pulgadas"
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 26,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 12,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 4,
+          "accion": "Adquisición de manómetros"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "VÁLVULA DE ÁNGULO PARA PROTECCIÓN CONTRA INCENDIO DE 2 ½ PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de válvulas de 2 ½ pulgadas."
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 8,
+          "accion": "Adquisición de hachas de bombero"
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (ESTRUCTURA METÁLICA)",
+          "cantidad": 10,
+          "accion": "Adquisición de\ngabinetes (estructura metálica)"
+        },
+        {
+          "nombre": "DETECTOR DE HUMO",
+          "cantidad": 7,
+          "accion": "Adquisición de detector de humo"
+        },
+        {
+          "nombre": "LUCES ESTROBOSCÓPICAS",
+          "cantidad": 1,
+          "accion": "Adquisición de luces estroboscópicas"
+        }
+      ],
+      "total_productos": 10,
+      "total_unidades": 73
+    },
+    {
+      "nombre": "TERMINAL DE TRANSFERENCIAS DE VÍVERES",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "TARJETA ELECTRÓNICA DE PANEL CONTROLADOR DE BOMBAS",
+          "cantidad": 1,
+          "accion": "Adquisición de\ntarjeta electrónica de panel"
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "cantidad": 8,
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera de 15 metros 1 ½, extintor de 10 lbs\nPQS, pitón de bronce)"
+        },
+        {
+          "nombre": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de manómetros"
+        }
+      ],
+      "total_productos": 3,
+      "total_unidades": 11
+    },
+    {
+      "nombre": "MUELLE CARAGUAY",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "PITONES CON EDUCTORES DE EPSUMA CONTRA INCENDIOS DE 2 1/2\"",
+          "cantidad": 3,
+          "accion": "Adquisición de pitón con eductor de\nespuma de 2 ½ pulgadas"
+        },
+        {
+          "nombre": "TANQUES DE ESPUMA CONTRA INCENDIO DE 55 GALONES",
+          "cantidad": 3,
+          "accion": "Adquisición de tanques de espuma"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 9,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "VÁLVULA DE ÁNGULO PARA PROTECCIÓN CONTRA INCENDIO DE 1 ½ PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 4,
+          "accion": "Adquisición de válvulas de ángulo de 1 ½ pulgadas."
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 30 METROS",
+          "cantidad": 8,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        }
+      ],
+      "total_productos": 6,
+      "total_unidades": 28
+    },
+    {
+      "nombre": "TÚNEL SANTA ANA Y CERRO DEL CARMEN",
+      "mes": 1,
+      "productos": [
+        {
+          "nombre": "VÁLVULA DE ÁNGULO PARA PROTECCIÓN CONTRA INCENDIO DE 2 ½ PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 16,
+          "accion": "Adquisición de válvulas de 2 ½ pulgadas."
+        },
+        {
+          "nombre": "HIDRANTE DE 6”",
+          "cantidad": 1,
+          "accion": "Adquisición de hidrante"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 16,
+          "accion": "Adquisición de hachas de bombero"
+        },
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 16,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 30 METROS",
+          "cantidad": 16,
+          "accion": "Adquisición de mangueras doble\nchaqueta"
+        }
+      ],
+      "total_productos": 5,
+      "total_unidades": 65
+    },
+    {
+      "nombre": "TÚNEL SAN EDUARDO",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "HIDRANTE DE 6”",
+          "cantidad": 1,
+          "accion": "Adquisición de hidrante"
+        },
+        {
+          "nombre": "VÁLVULA COMPUERTA RANURADA DE PASO PARA HIDRANTE DE 6\"",
+          "cantidad": 6,
+          "accion": "Adquisición de válvula compuerta"
+        }
+      ],
+      "total_productos": 2,
+      "total_unidades": 7
+    },
+    {
+      "nombre": "PALACIO MUNICIPAL",
+      "mes": 1,
+      "productos": [
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 7,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 16,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de manómetros"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 8,
+          "accion": "Adquisición de hachas de bombero"
+        },
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 3,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de vidrios"
+        }
+      ],
+      "total_productos": 6,
+      "total_unidades": 38
+    },
+    {
+      "nombre": "CENTRO DE BIENESTAR ANIMAL",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 4,
+          "accion": "Adquisición de mangueras doble\nchaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de hachas de bombero"
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 1,
+          "accion": "Adquisición de estación manual"
+        }
+      ],
+      "total_productos": 4,
+      "total_unidades": 8
+    },
+    {
+      "nombre": "CENTRO DE TRATAMIENTO PRIMARIO DE DESINTOXICACIÓN PARA ADICCIONES-BASTIÓN POPULAR",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 8,
+          "accion": "Adquisición de estaciones manuales"
+        }
+      ],
+      "total_productos": 1,
+      "total_unidades": 8
+    },
+    {
+      "nombre": "COMPLEJO POLIFUNCIONAL ZUMAR",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 2,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "PANEL DE DETECCIÓN",
+          "cantidad": 1,
+          "accion": "Adquirir un Panel de Detección y Alarma"
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 9,
+          "accion": "Adquisición de estaciones manuales"
+        }
+      ],
+      "total_productos": 5,
+      "total_unidades": 15
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA CISNE II",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 1,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 3,
+          "accion": "Adquisición de estaciones manuales"
+        }
+      ],
+      "total_productos": 2,
+      "total_unidades": 4
+    },
+    {
+      "nombre": "CENTRO MEDICO FERTISA",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 1,
+          "accion": "Adquisición de mangueras doble\nchaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de hachas de bombero"
+        }
+      ],
+      "total_productos": 3,
+      "total_unidades": 3
+    },
+    {
+      "nombre": "MERCADO LAS ESCLUSAS",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "cantidad": 7,
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera\nde 15 metros 1 ½, extintor de 10 lbs, PQS, pitón de bronce)"
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 7,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 1,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "SIAMESA",
+          "cantidad": 1,
+          "accion": "Adquisición de Siamesa"
+        }
+      ],
+      "total_productos": 4,
+      "total_unidades": 16
+    },
+    {
+      "nombre": "MERCADO PROSPERINA",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "BOMBA PRINCIPAL ELÉCTRICA",
+          "cantidad": 1,
+          "accion": "Adquirir e instalar bomba centrifuga con su tablero de control."
+        },
+        {
+          "nombre": "BOMBA JOCKEY",
+          "cantidad": 1,
+          "accion": "Adquirir e instalar bomba jockey con su tablero de control."
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "cantidad": 4,
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de maguera de 15 metros 1 ½, extintor de 10 lbs\nPQS, pitón de bronce)"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 3,
+          "accion": "Adquisición de hachas de bombero"
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 6,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 3,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 3,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "SIAMESA",
+          "cantidad": 1,
+          "accion": "Adquisición de Siamesa"
+        }
+      ],
+      "total_productos": 9,
+      "total_unidades": 23
+    },
+    {
+      "nombre": "MERCADO MARTHA DE ROLDOS",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 2,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        }
+      ],
+      "total_productos": 1,
+      "total_unidades": 2
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA ISABEL ESTRADA DE JURADO DE POSORJA",
+      "mes": 1,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 4,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de hachas de bombero"
+        },
+        {
+          "nombre": "PANEL DE DETECCIÓN",
+          "cantidad": 1,
+          "accion": "Adquirir un Panel de Detección y Alarma"
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 1,
+          "accion": "Adquisición de estación manual"
+        }
+      ],
+      "total_productos": 4,
+      "total_unidades": 8
+    },
+    {
+      "nombre": "CONCHA ACÚSTICA DE PARQUE SAMANES",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 4,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        }
+      ],
+      "total_productos": 2,
+      "total_unidades": 6
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA ÁNGEL FELICÍSIMO ROJAS",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 3,
+          "accion": "Adquisición de estaciones manuales"
+        }
+      ],
+      "total_productos": 1,
+      "total_unidades": 3
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA JACOBO Y MARIA ELENA RATINOFF",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 1,
+          "accion": "Adquisición de\nestación manual"
+        }
+      ],
+      "total_productos": 1,
+      "total_unidades": 1
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA SAMUEL RATINOFF",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 1,
+          "accion": "Adquisición de estación manual"
+        }
+      ],
+      "total_productos": 1,
+      "total_unidades": 1
+    },
+    {
+      "nombre": "HOSPITAL DEL DIA ISLA TRINITARIA",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 6,
+          "accion": "Adquisición de estación manual"
+        }
+      ],
+      "total_productos": 1,
+      "total_unidades": 6
+    },
+    {
+      "nombre": "MERCADO FLORIDA NORTE",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 2,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "SIAMESA",
+          "cantidad": 1,
+          "accion": "Adquisición de Siamesa"
+        },
+        {
+          "nombre": "BOMBA PRINCIPAL ELÉCTRICA",
+          "cantidad": 1,
+          "accion": "Adquirir e instalar bomba centrifuga con su tablero de control."
+        },
+        {
+          "nombre": "BOMBA JOCKEY",
+          "cantidad": 1,
+          "accion": "Adquirir e instalar bomba jockey con su tablero de control."
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 6,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 3,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "SIAMESA",
+          "cantidad": 1,
+          "accion": "Adquisición de Siamesa"
+        },
+        {
+          "nombre": "DETECTOR DE HUMO",
+          "cantidad": 3,
+          "accion": "Adquisición de detector de humo"
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 2,
+          "accion": "Adquisición de estaciones manuales"
+        }
+      ],
+      "total_productos": 10,
+      "total_unidades": 22
+    },
+    {
+      "nombre": "MERCADO ARTESANAL MACHALA",
+      "mes": 1,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 3,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 6,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 3,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        }
+      ],
+      "total_productos": 3,
+      "total_unidades": 12
+    },
+    {
+      "nombre": "MERCADO JOSÉ MASCOTE",
+      "mes": 1,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 3,
+          "accion": "Adquisición de extintor PQS 10\nlibras."
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 10,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 4,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de hachas de bombero"
+        }
+      ],
+      "total_productos": 5,
+      "total_unidades": 21
+    },
+    {
+      "nombre": "MERCADO ESTE",
+      "mes": 1,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 1,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        }
+      ],
+      "total_productos": 1,
+      "total_unidades": 1
+    },
+    {
+      "nombre": "MERCADO SAUCES IX",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 11,
+          "accion": "Adquisición de extintor PQS 10\nlibras."
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 20,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 10,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 8,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 10,
+          "accion": "Adquisición de hachas de bombero"
+        }
+      ],
+      "total_productos": 5,
+      "total_unidades": 59
+    },
+    {
+      "nombre": "MERCADO BATALLÓN DEL SUBURBIO",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 1,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 7,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 3,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de hachas de bombero"
+        }
+      ],
+      "total_productos": 5,
+      "total_unidades": 15
+    },
+    {
+      "nombre": "MERCADO MUNICIPAL VERGELES",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "DETECTOR DE HUMO",
+          "cantidad": 1,
+          "accion": "Adquisición de detector de humo"
+        }
+      ],
+      "total_productos": 1,
+      "total_unidades": 1
+    },
+    {
+      "nombre": "MERCADO CENTRAL",
+      "mes": 1,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 1,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 5,
+          "accion": "Adquisición de mangueras doble\nchaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de hachas de bombero"
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "cantidad": 3,
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera de 15 metros 1 ½, extintor de 10 lbs PQS, pitón de\nbronce)"
+        },
+        {
+          "nombre": "SIAMESA",
+          "cantidad": 2,
+          "accion": "Adquisición de Siamesa"
+        }
+      ],
+      "total_productos": 6,
+      "total_unidades": 14
+    },
+    {
+      "nombre": "PLANTA MUNICIPAL DE ASFALTO PDVSA",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 1,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "CANECAS DE ESPUMA CONTRA INCENDIOS 5 GAL",
+          "cantidad": 2,
+          "accion": "Adquisición de canecas de Espuma\nContra Incendios de 5 Gal"
+        },
+        {
+          "nombre": "EDUCTOR DE ESPUMA DE 1 1/2\" PARA GABINETE",
+          "cantidad": 1,
+          "accion": "Adquisición de un eductor de espuma\ncontra incendio de 1 1/2\""
+        },
+        {
+          "nombre": "PITONES CON EDUCTORES DE EPSUMA CONTRA INCENDIOS DE 2 1/2\"",
+          "cantidad": 2,
+          "accion": "Adquisición de pitón con eductor de\nespuma de 2 ½ pulgadas"
+        },
+        {
+          "nombre": "TANQUES DE ESPUMA CONTRA INCENDIO DE 55 GALONES",
+          "cantidad": 4,
+          "accion": "Adquisición de tanques de espuma"
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 1,
+          "accion": "Adquisición de estacion manual"
+        }
+      ],
+      "total_productos": 6,
+      "total_unidades": 11
+    },
+    {
+      "nombre": "MERCADO SANTA TERESITA",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 5,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 10,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 5,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 4,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 5,
+          "accion": "Adquisición de hachas de bombero"
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "cantidad": 1,
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera de 15 metros 1 ½, extintor de 10 lbs\nPQS, pitón de bronce)"
+        }
+      ],
+      "total_productos": 6,
+      "total_unidades": 30
+    },
+    {
+      "nombre": "MERCADO GOMEZ RENDÓN",
+      "mes": 1,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 10,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 5,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 5,
+          "accion": "Adquisición de hachas de bombero"
+        }
+      ],
+      "total_productos": 4,
+      "total_unidades": 22
+    },
+    {
+      "nombre": "MERCADO ENRIQUE GRAU RUIZ",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 6,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 3,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        }
+      ],
+      "total_productos": 2,
+      "total_unidades": 9
+    },
+    {
+      "nombre": "MERCADO SAN GREGORIO",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "SIAMESA",
+          "cantidad": 1,
+          "accion": "Adquisición de Siamesa"
+        }
+      ],
+      "total_productos": 1,
+      "total_unidades": 1
+    },
+    {
+      "nombre": "MERCADO GUASMO SUR",
+      "mes": 2,
+      "productos": [
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 1,
+          "accion": "Adquisición de\nextintor PQS 10 libras."
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 1,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 2,
+          "accion": "Adquisición de estación manual"
+        }
+      ],
+      "total_productos": 4,
+      "total_unidades": 5
+    },
+    {
+      "nombre": "MERCADO SAN JACINTO",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de manómetros"
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 9,
+          "accion": "Adquisición de\nmangueras doble chaqueta"
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de pitones de bronce de 1 ½ pulgada"
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "cantidad": 1,
+          "accion": "Adquisición de gabinetes contra incendios (hacha, 2 tramos de manguera de 15 metros 1 ½, extintor de 10 lbs\nPQS, pitón de bronce)"
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 1,
+          "accion": "Adquisición de estación manual"
+        }
+      ],
+      "total_productos": 6,
+      "total_unidades": 14
+    },
+    {
+      "nombre": "MERCADO LA CASUARINA",
+      "mes": 3,
+      "productos": [
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 1,
+          "accion": "Adquisición de vidrios"
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 7,
+          "accion": "Adquisición de mangueras doble\nchaqueta"
+        }
+      ],
+      "total_productos": 2,
+      "total_unidades": 8
+    }
+  ]
+}

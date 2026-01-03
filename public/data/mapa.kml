@@ -690,7 +690,7 @@
       </Placemark>
       <Placemark>
         <name>MERCADO PROSPERINA</name>
-        <styleUrl>#icon-1686-000000-nodesc</styleUrl>
+        <styleUrl>#icon-1502-0F9D58-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.9409069,-2.1415376,0
@@ -1504,7 +1504,7 @@ SISTEMA DE HIDRAULICO: No Operativa</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>CENTRO DE SALUD FERTIZA</name>
+        <name>CENTRO MEDICO FERTISA</name>
         <description><![CDATA[nombre: <br>descripción: <br>Descripción: SISTEMA DE HIDRAULICO: Operativa]]></description>
         <styleUrl>#icon-1502-FFEA00-labelson</styleUrl>
         <ExtendedData>
@@ -1635,27 +1635,6 @@ SISTEMA DE HIDRAULICO: Operativa</value>
         <Point>
           <coordinates>
             -79.8980311,-2.104209,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POLIFUCIONAL CASA GUAYACA</name>
-        <description><![CDATA[nombre: <br>descripción: <br>Descripción: ]]></description>
-        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
-        <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
-          <Data name="Descripción">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -79.8873613,-2.1756808,0
           </coordinates>
         </Point>
       </Placemark>

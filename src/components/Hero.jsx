@@ -21,16 +21,16 @@ export default function Hero() {
         {/* Botones de acción */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <Link
-            href="/generador"
+            href="/generador-v2"
             className="w-full sm:w-auto px-8 py-4 bg-blue-600 text-white rounded-lg font-semibold text-lg hover:bg-blue-700 transition-all shadow-lg hover:shadow-xl hover:scale-105"
           >
             📝 Generar Reporte
           </Link>
           <Link
-            href="/mantenimientos"
+            href="/inventario"
             className="w-full sm:w-auto px-8 py-4 bg-indigo-600 text-white rounded-lg font-semibold text-lg hover:bg-indigo-700 transition-all shadow-lg hover:shadow-xl hover:scale-105"
           >
-            🔧 Mantenimientos
+            📦 Inventario
           </Link>
           <Link
             href="/dependencias"

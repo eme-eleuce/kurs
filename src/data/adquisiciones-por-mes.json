@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "generado": "2025-12-31T00:02:49.803634",
+    "total_meses": 3
+  },
+  "meses": [
+    {
+      "mes": 1,
+      "total_productos": 13,
+      "total_unidades": 181,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 51
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 35
+        },
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 27
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 20
+        },
+        {
+          "nombre": "VÁLVULA DE ÁNGULO PARA PROTECCIÓN CONTRA INCENDIO DE 2 ½ PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 16
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 30 METROS",
+          "cantidad": 16
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 6
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "cantidad": 3
+        },
+        {
+          "nombre": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 2
+        },
+        {
+          "nombre": "SIAMESA",
+          "cantidad": 2
+        },
+        {
+          "nombre": "HIDRANTE DE 6”",
+          "cantidad": 1
+        },
+        {
+          "nombre": "PANEL DE DETECCIÓN",
+          "cantidad": 1
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "mes": 2,
+      "total_productos": 21,
+      "total_unidades": 210,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 59
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 34
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 16
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 14
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (ESTRUCTURA METÁLICA)",
+          "cantidad": 10
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 9
+        },
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 9
+        },
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 30 METROS",
+          "cantidad": 8
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "cantidad": 8
+        },
+        {
+          "nombre": "PITONES CON EDUCTORES DE EPSUMA CONTRA INCENDIOS DE 2 1/2\"",
+          "cantidad": 7
+        },
+        {
+          "nombre": "DETECTOR DE HUMO",
+          "cantidad": 7
+        },
+        {
+          "nombre": "TANQUES DE ESPUMA CONTRA INCENDIO DE 55 GALONES",
+          "cantidad": 7
+        },
+        {
+          "nombre": "VÁLVULA COMPUERTA RANURADA DE PASO PARA HIDRANTE DE 6\"",
+          "cantidad": 6
+        },
+        {
+          "nombre": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 4
+        },
+        {
+          "nombre": "VÁLVULA DE ÁNGULO PARA PROTECCIÓN CONTRA INCENDIO DE 1 ½ PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 4
+        },
+        {
+          "nombre": "SIAMESA",
+          "cantidad": 2
+        },
+        {
+          "nombre": "CANECAS DE ESPUMA CONTRA INCENDIOS 5 GAL",
+          "cantidad": 2
+        },
+        {
+          "nombre": "VÁLVULA DE ÁNGULO PARA PROTECCIÓN CONTRA INCENDIO DE 2 ½ PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 1
+        },
+        {
+          "nombre": "LUCES ESTROBOSCÓPICAS",
+          "cantidad": 1
+        },
+        {
+          "nombre": "HIDRANTE DE 6”",
+          "cantidad": 1
+        },
+        {
+          "nombre": "EDUCTOR DE ESPUMA DE 1 1/2\" PARA GABINETE",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "mes": 3,
+      "total_productos": 14,
+      "total_unidades": 180,
+      "productos": [
+        {
+          "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
+          "cantidad": 60
+        },
+        {
+          "nombre": "ESTACIONES MANUALES",
+          "cantidad": 24
+        },
+        {
+          "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
+          "cantidad": 19
+        },
+        {
+          "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 18
+        },
+        {
+          "nombre": "EXTINTOR DE PQS 10 LIBRAS",
+          "cantidad": 16
+        },
+        {
+          "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 14
+        },
+        {
+          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "cantidad": 13
+        },
+        {
+          "nombre": "DETECTOR DE HUMO",
+          "cantidad": 4
+        },
+        {
+          "nombre": "MANÓMETROS DE PRESIÓN PARA GABINETE CONTRA INCENDIOS",
+          "cantidad": 3
+        },
+        {
+          "nombre": "SIAMESA",
+          "cantidad": 3
+        },
+        {
+          "nombre": "BOMBA PRINCIPAL ELÉCTRICA",
+          "cantidad": 2
+        },
+        {
+          "nombre": "BOMBA JOCKEY",
+          "cantidad": 2
+        },
+        {
+          "nombre": "TARJETA ELECTRÓNICA DE PANEL CONTROLADOR DE BOMBAS",
+          "cantidad": 1
+        },
+        {
+          "nombre": "PANEL DE DETECCIÓN",
+          "cantidad": 1
+        }
+      ]
+    }
+  ]
+}

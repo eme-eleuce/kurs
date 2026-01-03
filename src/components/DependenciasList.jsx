@@ -1,7 +1,9 @@
 "use client";
 
 import { useState, useEffect, useMemo } from "react";
+import { useRouter } from "next/navigation";
 import { kml } from "@tmcw/togeojson";
+import { getDependenciasDetalleCompleto, getDependenciaDetalleCompleto } from "../../lib/adquisiciones.js";
 
 const STYLE_TO_CATEGORY = {
   "icon-1502-9C27B0": { name: "Mes 1", color: "#9C27B0" },
@@ -10,9 +12,21 @@ const STYLE_TO_CATEGORY = {
 };
 
 export default function DependenciasList({ driveLinks, kmlData }) {
+  const router = useRouter();
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [dependencias, setDependencias] = useState([]);
+  const [detalleCompleto, setDetalleCompleto] = useState(null);
+
+  useEffect(() => {
+    // Cargar datos de detalle completo
+    try {
+      const detalle = getDependenciasDetalleCompleto();
+      setDetalleCompleto(detalle);
+    } catch (error) {
+      console.error("Error al cargar detalle completo:", error);
+    }
+  }, []);
 
   useEffect(() => {
     if (!kmlData || !driveLinks) return;
@@ -191,44 +205,50 @@ export default function DependenciasList({ driveLinks, kmlData }) {
       </div>
 
       {/* Lista de dependencias */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 min-h-[400px]">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 auto-rows-min">
         {filteredDependencias.length > 0 ? (
-          filteredDependencias.map((dep, index) => (
-            <div
-              key={index}
-              className="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow p-5"
-            >
-              <div className="flex items-start justify-between mb-3">
-                <h3 className="font-bold text-gray-800 text-base leading-tight flex-1">
-                  {dep.name}
-                </h3>
-                <span
-                  className="ml-2 px-2 py-1 rounded text-xs font-medium text-white whitespace-nowrap"
-                  style={{ backgroundColor: dep.color }}
-                >
-                  {dep.category}
-                </span>
-              </div>
-
-              {dep.driveLink ? (
-                <a
-                  href={dep.driveLink}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-center gap-2 w-full px-4 py-2 bg-blue-600 text-white text-center rounded-lg hover:bg-blue-700 transition-colors font-medium text-sm"
-                >
-                  <span className="text-lg">📁</span>
-                  <span>Abrir en Drive</span>
-                </a>
-              ) : (
-                <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-2">
-                  <p className="text-xs text-yellow-800 text-center">
-                    ⚠️ Link no configurado
-                  </p>
+          filteredDependencias.map((dep, index) => {
+            const detalleData = detalleCompleto ? getDependenciaDetalleCompleto(dep.name) : null;
+            const tieneDetalle = detalleData !== null && detalleData !== undefined;
+            
+            return (
+              <div
+                key={index}
+                className="bg-white rounded-lg shadow-md hover:shadow-lg transition-all p-5 flex flex-col max-w-sm w-full mx-auto self-start h-[200px]"
+              >
+                <div className="flex items-start justify-between mb-3">
+                  <h3 className="font-bold text-gray-800 text-base leading-tight flex-1">
+                    {dep.name}
+                  </h3>
+                  <span
+                    className="ml-2 px-2 py-1 rounded text-xs font-medium text-white whitespace-nowrap"
+                    style={{ backgroundColor: dep.color }}
+                  >
+                    {dep.category}
+                  </span>
                 </div>
-              )}
-            </div>
-          ))
+
+                {tieneDetalle && (
+                  <div className="mb-3 text-sm text-gray-600">
+                    <div className="flex items-center gap-2">
+                      <span>📊 {detalleData.total_productos} productos</span>
+                    </div>
+                  </div>
+                )}
+
+                <div className="flex gap-2 mt-auto">
+                  {tieneDetalle && (
+                    <button
+                      onClick={() => router.push(`/dependencias/${encodeURIComponent(dep.name)}`)}
+                      className="flex-1 px-3 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium text-sm"
+                    >
+                      Ver detalle
+                    </button>
+                  )}
+                </div>
+              </div>
+            );
+          })
         ) : (
           <div className="col-span-full text-center py-12">
             <svg

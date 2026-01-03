@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "MiMG - KURS",
-  description: "plop",
+  description: "KURS - Sistema para el mantenimiento, adquisiciones de sistema contra incendios en MIMG",
 };
 
 export default function RootLayout({ children }) {

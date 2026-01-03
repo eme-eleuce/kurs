@@ -83,7 +83,7 @@ export default function DependenciasPage() {
             Directorio de Dependencias
           </h1>
           <p className="text-gray-600">
-            Busca y accede rápidamente a las carpetas de Drive de cada dependencia
+            Busca y accede rápidamente a las dependencias del MIMG
           </p>
         </div>
 

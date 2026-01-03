@@ -220,7 +220,7 @@ export const maintenanceTemplates = {
     ],
   },
 
-  // SIAMESAS
+  // SIAMESAS / SIAMESA
   "SIAMESAS - PREVENTIVO": {
     nombre: "SIAMESAS",
     tipo: "PREVENTIVO",
@@ -233,8 +233,31 @@ export const maintenanceTemplates = {
     ],
   },
 
+  "SIAMESA - PREVENTIVO": {
+    nombre: "SIAMESA",
+    tipo: "PREVENTIVO",
+    pasos: [
+      { descripcion: "Limpieza externa del cuerpo de la siamesa para remover suciedad, pintura, corrosión o residuos acumulados", fotos: 2 },
+      { descripcion: "Revisión del estado de empaques y juntas para prevenir fugas o pérdida de estanqueidad y reemplazándolos si es necesario", fotos: 2 },
+      { descripcion: "Ajustar el estado de las roscas hembra para asegurar que estén limpias, sin daños y permitan una conexión rápida y segura", fotos: 1 },
+      { descripcion: "Ajustar la válvula de retención interna, asegurando que esté operativa y libre de obstrucciones o corrosión", fotos: 2 },
+      { descripcion: "Colocar señaletica visible de \"USO EXCLUSIVO DEL BCBG\"", fotos: 1 },
+    ],
+  },
+
   "SIAMESAS - CORRECTIVO": {
     nombre: "SIAMESAS",
+    tipo: "CORRECTIVO",
+    pasos: [
+      { descripcion: "Reemplazo de partes incompletas como tapones macho con cadena, parte móvil de la rosca hembra, cadenas o accesorios de sujeción", fotos: 2 },
+      { descripcion: "Reparación o cambio de empaques internos si presentan fugas o desgaste", fotos: 2 },
+      { descripcion: "Reparación o cambio de la brida o conexión si presenta fisuras o filtraciones", fotos: 2 },
+      { descripcion: "Sustitución de válvula antirretorno, si no asegura la estanqueidad o permite el retorno de agua, debe reemplazarse", fotos: 2 },
+    ],
+  },
+
+  "SIAMESA - CORRECTIVO": {
+    nombre: "SIAMESA",
     tipo: "CORRECTIVO",
     pasos: [
       { descripcion: "Reemplazo de partes incompletas como tapones macho con cadena, parte móvil de la rosca hembra, cadenas o accesorios de sujeción", fotos: 2 },
