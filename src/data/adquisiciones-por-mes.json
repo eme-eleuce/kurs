@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generado": "2025-12-31T00:02:49.803634",
+    "generado": "2026-01-08T01:45:25.164Z",
     "total_meses": 3
   },
   "meses": [
@@ -38,7 +38,7 @@
           "cantidad": 6
         },
         {
-          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "nombre": "GABINETE CONTRA INCENDIOS",
           "cantidad": 3
         },
         {
@@ -50,7 +50,7 @@
           "cantidad": 2
         },
         {
-          "nombre": "HIDRANTE DE 6”",
+          "nombre": "HIDRANTE DE 6\"",
           "cantidad": 1
         },
         {
@@ -65,8 +65,8 @@
     },
     {
       "mes": 2,
-      "total_productos": 21,
-      "total_unidades": 210,
+      "total_productos": 20,
+      "total_unidades": 209,
       "productos": [
         {
           "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
@@ -77,16 +77,16 @@
           "cantidad": 34
         },
         {
+          "nombre": "GABINETE CONTRA INCENDIOS",
+          "cantidad": 18
+        },
+        {
           "nombre": "HACHA PICO DE 5LBS DE BOMBERO PARA GABINETE CONTRA INCENDIOS",
           "cantidad": 16
         },
         {
           "nombre": "ESTACIONES MANUALES",
-          "cantidad": 14
-        },
-        {
-          "nombre": "GABINETE CONTRA INCENDIOS (ESTRUCTURA METÁLICA)",
-          "cantidad": 10
+          "cantidad": 13
         },
         {
           "nombre": "VIDRIO PARA GABINETE CONTRA INCENDIOS",
@@ -98,10 +98,6 @@
         },
         {
           "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 30 METROS",
-          "cantidad": 8
-        },
-        {
-          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
           "cantidad": 8
         },
         {
@@ -145,7 +141,7 @@
           "cantidad": 1
         },
         {
-          "nombre": "HIDRANTE DE 6”",
+          "nombre": "HIDRANTE DE 6\"",
           "cantidad": 1
         },
         {
@@ -157,7 +153,7 @@
     {
       "mes": 3,
       "total_productos": 14,
-      "total_unidades": 180,
+      "total_unidades": 181,
       "productos": [
         {
           "nombre": "MANGUERAS DOBLE CHAQUETA DE 1 ½ DE 15 METROS",
@@ -165,7 +161,7 @@
         },
         {
           "nombre": "ESTACIONES MANUALES",
-          "cantidad": 24
+          "cantidad": 25
         },
         {
           "nombre": "PITONES DE BRONCE DE 1 ½ PARA MANGUERAS DE GABINETES CONTRA INCENDIOS",
@@ -184,7 +180,7 @@
           "cantidad": 14
         },
         {
-          "nombre": "GABINETE CONTRA INCENDIOS (HACHA, 2 TRAMOS DE MANGUERA DE 15 METROS 1 ½, EXTINTOR DE 10 LBS PQS, PITÓN DE BRONCE)",
+          "nombre": "GABINETE CONTRA INCENDIOS",
           "cantidad": 13
         },
         {
