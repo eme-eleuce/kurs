@@ -161,8 +161,8 @@ export const maintenanceTemplates = {
   },
 
   // HIDRANTES
-  "HIDRANTES DE 6\" - PREVENTIVO": {
-    nombre: "HIDRANTES DE 6\"",
+  "HIDRANTE DE 6\" - PREVENTIVO": {
+    nombre: "HIDRANTE DE 6\"",
     tipo: "PREVENTIVO",
     pasos: [
       { descripcion: "Limpieza exterior del cuerpo del hidrante y área circundante para facilitar su acceso y operación", fotos: 2 },
